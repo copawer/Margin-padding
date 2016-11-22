@@ -1,0 +1,39 @@
+div {
+
+	border:7px solid orange;
+	border-width: 2px 2px ;
+	width:200px;
+	height:230px;
+	padding-left: 1px;
+	padding-top: 10px;
+
+	
+}
+
+
+.segundo{
+
+	border:7px solid orange;
+	border-width: 2px 2px ;
+	width:200px;
+	height:230px;
+	padding-left: 1px;
+	padding-top: 10px;
+	
+}
+
+.tercero{
+
+	border:7px solid orange;
+	border-width: 2px 2px ;
+	width:200px;
+	height:230px;
+	padding-left: 1px;
+	padding-top: 10px;
+	
+
+
+
+
+
+/* Agrega aqui tu CSS */
